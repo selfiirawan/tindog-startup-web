@@ -20,7 +20,7 @@ Created for learning and practice, and deployed using GitHub Pages.
 ---
 
 ### 🌐 Live Demo
-(Add link here)
+https://selfiirawan.github.io/tindog-startup-web/
 
 ---
 
